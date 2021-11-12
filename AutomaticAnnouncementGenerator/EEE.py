@@ -34,8 +34,3 @@ link.grid(row=5,column=1)
 output=Label(root,text="Output: ").grid(row=7,column=0)
 mybutton=Button(root,text="Announcement",command=myclick).grid(row=6,column=1)
 root.mainloop()
-
-
-
-
-root.mainloop()
